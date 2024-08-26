@@ -1,5 +1,3 @@
-# RetoIAAvanzada
-
 # Carpetas y sus archivos
 
 ## Capturas de resultados Regresión Logística (Kaggle(
