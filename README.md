@@ -8,9 +8,9 @@ Contiene las imágenes de la carga de resultados en Kaggle para obtener el score
 
 Contiene todos los datasets usados durante el reto del Titanic
 
-## Entregas individuales Luis Maximiliano López Ramírez
+## Portafolios
 
-Esta carpeta se divide en otras tres carpetas
+Esta carpeta se divide en otras tres carpetas para cada portafolio
 
 ### Portafolio de análisis
 
