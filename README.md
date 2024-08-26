@@ -24,6 +24,6 @@ Esta carpeta contiene el archivo de 'Reto Análisis del contexto y la normativid
 
 Esta carpeta contiene los reportes hechos hasta el momento del reto
 
-## Scrpts de apoyo
+## Scripts de apoyo
 
 Contiene los scripts usados para la realización del reto
