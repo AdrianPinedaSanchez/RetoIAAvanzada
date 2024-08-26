@@ -1,6 +1,6 @@
 # Carpetas y sus archivos
 
-## Capturas de resultados Regresión Logística (Kaggle(
+## Capturas de resultados Regresión Logística (Kaggle)
 
 Contiene las imágenes de la carga de resultados en Kaggle para obtener el score
 
