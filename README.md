@@ -2,7 +2,7 @@
 
 ## Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo 
 ## Documentos
-Los documentos se encuentran en la sección de Archivos_Retos_Finales:
+Los documentos se encuentran en la sección de Archivos_Reto_Finales:
  * El documento de "Reto_final" muestra el PDF generado, donde se explica a detalle todo lo realizado durante esta etapa.
  * El archivo de "PrimerColabReto" muestra el primer análisis y las aplicaciones de los modelos con Optuna y sin Optuna.
  * El archivo de "SegundoColabReto" muestra el segundo análisis con distintas técnicas explicadas a mayor extensión en el PDF realizado.
