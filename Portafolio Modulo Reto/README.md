@@ -1,19 +1,16 @@
 # Concentración en Inteligencia Artificial Avanzada para la Ciencia de Datos 
 
-La capeta "Portafolio Implementación" contiene  la actividad "Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework."
+El Portafolio Modulo Reto contiene tres entregas individuales correspondientes a ética y normatividad.
 
-Se entregan dos archivos:
-- Week02_Challenge1.ipynb
-- Week02_Challenge1.pdf
+Se entregan tres archivos:
 
-La capeta "Portafolio Implementación" contiene  la actividad Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. 
+- Primera entrega:
+Análisis del contexto y normatividad.pdf
 
-Se entregan dos archivos:
-- Valhalla_Challenge.ipynb
-- Valhalla_Challenge.pdf
+- Segunda entrega:
+Análisis del contexto y normatividad Modificado.pdf
+Esta entrega es el archivo editado de la primera entrega con las modificaciones sugeridas por el profesor.
+Se añadio una sección correspondiente al tema "Explotación de Datos y Perfiles de Riesgo en Servicios Financieros", por ende, también se editó la conclusión del texto.
 
-La carpeta "Portafolio Análisis" contiene la activad "Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo."
-
-Se entregan dos archivos:
-- Valhalla.ipynb
-- Valhalla.pdf
+- Tercera entrega:
+Reporte de ética y normatividad.pdf
