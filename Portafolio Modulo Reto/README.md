@@ -1,6 +1,6 @@
 # Concentración en Inteligencia Artificial Avanzada para la Ciencia de Datos 
 
-El Portafolio Modulo Reto contiene tres entregas individuales correspondientes a ética y normatividad.
+El Portafolio Modulo Reto contiene la carpeta Portafolio Análisis, la cual contiene tres entregas individuales correspondientes a ética y normatividad.
 
 Se entregan tres archivos:
 
