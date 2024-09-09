@@ -1,3 +1,7 @@
+# Branch de Luis Maximiliano López Ramírez - A00833321
+
+Este repositorio es una rama individual para las actividades individuales
+
 # Carpetas y sus archivos
 
 ## Portafolios
