@@ -58,5 +58,7 @@ Para la entrega final, implementamos mejoras en la redacción del reporte como s
 * Carpeta llamada **Entrega de la solución del Reto** (Entrega del 09 de septiembre)
     * PrimerColabReto.ipynb
     * SegundoColabReto.ipynb
-    * Reporte Final.pdf
-    * Presentación Final.pdf
+    * Reto_final.pdf
+    * Presentacion Final Reto.pdf
+    * train.csv
+    * test_augmented.csv
