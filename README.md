@@ -42,3 +42,21 @@ Esta carpeta se divide en otras tres carpetas para cada portafolio
     * Actividad integradora 2 (pdf)
 
 ### Reto
+
+* Carpeta llamada **Reto Limpieza del Conjunto de Datos** (Entrega del 20 de agosto)
+    * Limpieza_del_Conjunto_de_Datos.ipynb
+
+En la segunda entregase implementó un segundo tratamiento de datos como parte de la mejora que se nos pedía en el primer entregable.
+
+* Carpeta llamada **Reto Selección, configuración y entrenamiento del modelo** (Entrega del 26 de agosto)
+    * PrimerColabReto.ipynb (Primer tratamiento de datos)
+    * SegundoColabReto.ipynb (Segundo tratamiento de datos)
+    * Reto Reporte.pdf
+
+Para la entrega final, implementamos mejoras en la redacción del reporte como se nos pedía en la retroalimentación al poner más elementos visuales como tablas y menos bullets.
+
+* Carpeta llamada **Entrega de la solución del Reto** (Entrega del 09 de septiembre)
+    * PrimerColabReto.ipynb
+    * SegundoColabReto.ipynb
+    * Reporte Final.pdf
+    * Presentación Final.pdf
