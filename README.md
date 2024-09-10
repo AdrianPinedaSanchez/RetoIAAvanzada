@@ -13,8 +13,8 @@ Lista de requisitos necesarios para ejecutar el primer entregable de limpieza de
 - Explicar y documentar cada decisión que haya tomado sobre cómo transformar cada variable. 
 - Subir los scripts utilizados para transformar  los valores y la documentación a su repositorio de equipo del reto. 
 
-Carpeta: Reto Limpieza del Conjunto de Datos
-Archivo: Limpieza_del_Conjunto_de_Datos
+* Carpeta: Reto Limpieza del Conjunto de Datos
+* Archivo: Limpieza_del_Conjunto_de_Datos
 
 
 En la carpeta Momento 1 Reto se encuentran las siguientes actividades y archivos:
@@ -23,8 +23,14 @@ En la carpeta Momento 1 Reto se encuentran las siguientes actividades y archivos
 
  * El documento de "Reporte Reto" muestra el PDF generado de un primer entregable. 
 
-Carpeta: Reto Selección Configuración y Entrenamiento del Modelo
-Archivo: Reto reporte 
+* Carpeta: Reto Selección Configuración y Entrenamiento del Modelo
+* Archivo: Reto reporte 
+
+
+## Archivo Reto Finales 
+
+Esta carpeta contine los entregables finales del reto. 
+
 
 
 
